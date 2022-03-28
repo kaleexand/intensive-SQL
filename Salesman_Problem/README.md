@@ -1,14 +1,6 @@
 
 ## Exercise 00 - Classical TSP
 
-| Exercise 00: Classical TSP|                                                                                                                          |
-|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| Turn-in directory                     | ex00                                                                                                                     |
-| Files to turn-in                      | `team00_ex00.sql` DDL for table creation with INSERTs of data; SQL DML statement                                                                                |
-| **Allowed**                               |                                                                                                                          |
-| Language                        | ANSI SQL|
-| SQL Syntax Pattern                        | Recursive Query|
-
 ![T00_02](T00_02.png)
 
 Please take a look at the Graph on the left. 
@@ -27,13 +19,6 @@ The sample of output data you can find below. Please sort data by total_cost and
 
 ## Exercise 01 - Opposite TSP
 
-| Exercise 01: Opposite TSP|                                                                                                                          |
-|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| Turn-in directory                     | ex01                                                                                                                     |
-| Files to turn-in                      | `team00_ex01.sql`     SQL DML statement                                                                             |
-| **Allowed**                               |                                                                                                                          |
-| Language                        | ANSI SQL|
-| SQL Syntax Pattern                        | Recursive Query|
 
 Please add a possibility to see additional rows with the most expensive cost to the SQL from previous exercise. Just take a look at the sample of data below. Please sort data by total_cost and then by tour.
 
