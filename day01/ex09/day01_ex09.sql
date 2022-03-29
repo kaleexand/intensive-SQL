@@ -1,3 +1,6 @@
+
+-- Please write a 2 SQL statements which returns a list of pizzerias names which have not been visited by persons by using IN for 1st one and EXISTS for the 2nd one.
+
 select 
 	name
 from

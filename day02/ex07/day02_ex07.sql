@@ -1,3 +1,6 @@
+
+-- Please find the names of pizzerias where Dmitriy visited and can buy pizzas he eats for less than 800 rubles on 8th of January of 2022.
+
 SELECT pizzeria.name
 FROM( SELECT * FROM menu WHERE price < 800) t1
 JOIN pizzeria ON pizzeria.id = t1.pizzeria_id

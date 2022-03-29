@@ -1,3 +1,14 @@
+
+
+-- Please find all pizza names (and corresponding pizzeria restaurant names) that both Denis and Anna order  and order the result by both columns. The sample of output is presented below.
+
+-- | pizza_name | pizzeria_name |
+-- | ------ | ------ |
+-- | cheese pizza | Best Pizza |
+-- | cheese pizza | Pizza Hut |
+-- | ... | ... |
+
+
 select * from (select pizza_name, pizzeria_name from (select pizza_name, pizzeria.name as pizzeria_name, p_n
 from (select name as pe, menu_id, person.name as p_n
 from person_order po
