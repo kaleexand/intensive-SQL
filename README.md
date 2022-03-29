@@ -23,3 +23,8 @@
 ## day04
 Задания на изучение работы virtual view, materialized view
 
+
+## day05
+Задания на изучение работы index и unique index
+
+
