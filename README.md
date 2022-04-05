@@ -1,30 +1,45 @@
 # intensive-SQL-Sber-School21
-14 дневный интенсив по sql от Школы21
 
-БД - postgres14
+db - postgres14
 
-Скрипт для создания БД в DB
+Script to create db in db folder
 
 ## Salesman_problem
-Решение задачи коммивояжера (поиск кратчайшего пути) с помощью рекурсии
+Today you will implementing a quick solution on SQL to achieve results of Traveling Salesman Problem
 
+## Data_Warehouse
+Today you will know what DWH is and how to create a first ETL process
+
+# Description
 ## day00
-Задания на просмотр работы реляционной модели и как получить необходимые данные на основе базовых конструкций SQL.
+Today you will see how relational model works and how to get needed data based on basic constructions of SQL
 
 ## day01
-Задания на просмотр данных реляционной модели с помощью простых JOINs
+Today you will see how to get needed data based on sets constructions and simple JOINs
 
 ## day02
-Задания определение различий между видами JOIN
+Today you will see how to get needed data based on different structures JOINs
 
 ## day03
-Задания изменение данных, изучение основ DML
+Today you will see how to change data based on DML language
 
 ## day04
-Задания на изучение работы virtual view, materialized view
-
+Today you will see how to use a virtual view and physical snapshot of data
 
 ## day05
-Задания на изучение работы index и unique index
+Today you will see how and when to create database indexes
+
+## day06
+Today you will see how to add a new business feature into our data model
+
+## day07
+Today you will see how to use specific OLAP constructions to get a “Value” from data
+
+## day08
+Today you will see how database works with transactions and isolation levels
+
+## day09
+Today you will see how to create and use functional blocks in Databases
+
 
 
